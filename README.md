@@ -1,11 +1,12 @@
 <div align="center">
   
 # Welcome to my GitHub  
-<img src="https://raw.githubusercontent.com/MC-Bertozi/MC-Bertozi/main/Welcome_to_my_Gihutb!.png" width="800px">
+<img alt="banner" src="https://github.com/user-attachments/assets/1669893f-7a14-4958-8703-fd49f96ee90d" width="800px" />
 
 ### 🌐 Connect with me  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/maria-clara-bertozi-445172356)
 [![Email](https://img.shields.io/badge/-Email-black?style=for-the-badge&logo=gmail)](mailto:mariaclaracsbertozi@gmail.com)
+
 
 </div>
 
@@ -20,6 +21,7 @@ AI,  game dev, problem-solving, and building useful projects.
 - 💡 Interests: AI, Backend, Frontend, Gamev Dev  
 - 🎮 Hobby: digital games, chess, studying, new things.
 - 🌍 Brasil
+<img src= "https://github.com/user-attachments/assets/492d7521-6bea-4c4d-8724-27f93839717e" width="800px" />
 
 ---
 
