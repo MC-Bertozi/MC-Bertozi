@@ -1,6 +1,6 @@
 <div align="center">
   
-# 👋 Welcome to Bertozi's GitHub  
+# Welcome to my GitHub  
 <img src="https://raw.githubusercontent.com/MC-Bertozi/MC-Bertozi/main/Welcome_to_my_Gihutb!.png" width="800px">
 
 ### 🌐 Connect with me  
