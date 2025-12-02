@@ -21,7 +21,7 @@ AI,  game dev, problem-solving, and building useful projects.
 - 💡 Interests: AI, Backend, Frontend, Gamev Dev  
 - 🎮 Hobby: digital games, chess, studying, new things.
 - 🌍 Brasil
-<img src= "https://github.com/user-attachments/assets/492d7521-6bea-4c4d-8724-27f93839717e" width="20px" height="40px" />
+<img src= "https://github.com/user-attachments/assets/492d7521-6bea-4c4d-8724-27f93839717e" width="200px" height="100px" />
 
 ---
 
