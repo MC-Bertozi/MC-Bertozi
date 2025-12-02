@@ -1,9 +1,7 @@
 <div align="center">
-  
-# Welcome to my GitHub  
 <img alt="banner" src="https://github.com/user-attachments/assets/1669893f-7a14-4958-8703-fd49f96ee90d" width="600px" height= "300px" />
 
-### 🌐 Connect with me  
+### ※ Connect with me  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/maria-clara-bertozi-445172356)
 [![Email](https://img.shields.io/badge/-Email-black?style=for-the-badge&logo=gmail)](mailto:mariaclaracsbertozi@gmail.com)
 
@@ -12,20 +10,34 @@
 
 ---
 
-## 🧑‍💻 About Me  
+## ※ About Me  
+
+<div style="display: flex; align-items: center; justify-content: space-between;">
+
+  <!-- TEXTO -->
+  <div style="flex: 1; margin-right: 20px;">
 
 Hello! I'm **Maria Clara Bertozi**, a Computer Science student passionate about  
-AI,  game dev, problem-solving, and building useful projects.
+AI, game dev, problem-solving, and building useful projects.
 
 - 📚 Currently studying: *Computer Science - PUC Minas*  
-- 💡 Interests: AI, Backend, Frontend, Gamev Dev  
-- 🎮 Hobby: digital games, chess, studying, new things.
-- 🌍 Brasil
-<img src= "https://github.com/user-attachments/assets/492d7521-6bea-4c4d-8724-27f93839717e" width="200px" height="100px" />
+- 💡 Interests: AI, Backend, Frontend, Game Dev  
+- 🎮 Hobby: digital games, chess, studying, new things  
+- 🌍 Brasil  
+
+  </div>
+
+  <!-- IMAGEM -->
+  <img src="https://github.com/user-attachments/assets/492d7521-6bea-4c4d-8724-27f93839717e" 
+       width="220px" 
+       style="border-radius: 10px;"/>
+
+</div>
+
 
 ---
 
-## 🛠 Technologies  
+## ※ Technologies  
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,js,html,css,react,git,c,cs" />
@@ -33,7 +45,7 @@ AI,  game dev, problem-solving, and building useful projects.
 
 ---
 
-## 📊 GitHub Statistics  
+## ※ GitHub Statistics  
 
 <div align="center">
 
