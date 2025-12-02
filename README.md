@@ -1,7 +1,7 @@
 <div align="center">
   
 # 👋 Welcome to Bertozi's GitHub  
-<img src="https://your-banner-url-here" width="800px">
+<img src="https://raw.githubusercontent.com/MC-Bertozi/MC-Bertozi/main/Welcome_to_my_Gihutb_!.jpeg" width="800px">
 
 ### 🌐 Connect with me  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/maria-clara-bertozi-445172356)
