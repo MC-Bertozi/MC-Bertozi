@@ -47,7 +47,7 @@ AI, game dev, problem-solving, and building useful projects.
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MC-Bertozi&show_icons=true&theme=dark&hide_border=true"/>
+
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=MC-Bertozi&theme=dark&hide_border=true"/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=MC-Bertozi&theme=react-dark&hide_border=true"/>
