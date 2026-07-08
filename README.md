@@ -24,6 +24,8 @@ AI, game dev, problem-solving, and building useful projects.
 - 🎮 **Hobby:** digital games, chess, studying, new things  
 - 🌍 **Brasil**
 
+- More projects on this organization: https://github.com/PUC-ComputerScience-CS
+
     </td>
 
     <td align="center" width="30%">
